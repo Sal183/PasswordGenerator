@@ -8,12 +8,12 @@ After initiating a correct input you will be prompted if you would like to...
 3. Include Special Characters
 4. Include Numbers
 
-Link to deployed website:
+<h3>Link to deployed website:</h3>
 
 <a href="https://sal183.github.io/PasswordGenerator/">Deployed Website Link Here</a>
 
 
-Link to Github Repository:
+<h3>Link to Github Repository:</h3>
   
 <a href="https://github.com/Sal183/PasswordGenerator">Github Repository Link Here</a>
 
